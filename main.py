@@ -3,7 +3,6 @@ import speech_recognition as sr
 import pyttsx3
 
 engine = pyttsx3.init()
-engine.setProperty('voice', pyttsx3.voices[0].id) 
 
 r = sr.Recognizer() 
 mic = sr.Microphone(device_index=0) 
