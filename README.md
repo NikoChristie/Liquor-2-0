@@ -2,11 +2,11 @@
 
 ## Prerequisites
 
-###1. PyAdio - to install I used 
+### 1. PyAdio - to install I used 
 py -m pip install pipwin
 py -m pipwin install pyaudio
 
-###2. Speech Recognition
+### 2. Speech Recognition
 py -m pip install SpeechRecognition
 
 ###3. pyttsx3
