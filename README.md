@@ -1,7 +1,13 @@
 # Liquor-2-0
 
 ## What Is Liquor 2.0?
-It listens to your voice and find -er -or and -ur words, say terminate for the program to end
+This Program listens to you and if you say a word that ends with an -er it will respond with the following joke, {word} her? I barely even knew her!
+ex.
+```
+You: Liquor
+Bot: Liqu her? I barely even knew her!
+```
+The joke get more funny over time
 
 ## Prerequisites
 
