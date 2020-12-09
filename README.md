@@ -13,16 +13,16 @@ The joke get more funny over time
 
 ### 1. PyAdio - to install I used 
 ```shell
-py -m pip install pipwin
-py -m pipwin install pyaudio
+pip install pipwin
+pipwin install pyaudio
 ```
 
 ### 2. Speech Recognition
 ```shell
-py -m pip install SpeechRecognition
+pip install SpeechRecognition
 ```
 
 ### 3. pyttsx3
 ```shell
-py -m pip install pyttsx3
+pip install pyttsx3
 ```
