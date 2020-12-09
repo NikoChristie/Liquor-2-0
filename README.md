@@ -4,14 +4,14 @@
 This Program listens to you and if you say a word that ends with an -er it will respond with the following joke, {word} her? I barely even knew her!
 ex.
 ```
-You: Liquor
-Bot: Liqu her? I barely even knew her!
+You: Tester
+Bot: Test her? I barely even knew her!
 ```
 The joke get more funny over time
 
 ## Prerequisites
 
-### 1. PyAdio - to install I used 
+### 1. PyAudio - to install I used 
 ```shell
 pip install pipwin
 pipwin install pyaudio
